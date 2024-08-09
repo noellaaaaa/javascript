@@ -15,5 +15,6 @@ ul li{
 ul{
     display: flex;
     justify-content: space-around; 
+
     
 }
