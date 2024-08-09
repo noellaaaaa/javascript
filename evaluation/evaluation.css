@@ -12,9 +12,11 @@ ul li{
     list-style-type:none;
     
 }
+
+
 ul{
     display: flex;
     justify-content: space-around; 
 
-    
+
 }
